@@ -1,3 +1,8 @@
+---
+title: RollOrNot — Support / 支援 / 支持
+permalink: /support/
+---
+
 # RollOrNot — Support / 支援 / 支持
 
 ---

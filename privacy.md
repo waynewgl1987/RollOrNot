@@ -1,3 +1,8 @@
+---
+title: RollOrNot — Privacy Policy / 隐私政策 / 隱私權政策
+permalink: /privacy/
+---
+
 # RollOrNot — Privacy Policy / 隐私政策 / 隱私權政策
 
 ---

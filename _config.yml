@@ -1,0 +1,25 @@
+title: RollOrNot
+description: AI-Powered Study Companion — Learn Smarter, Not Harder
+theme: jekyll-theme-cayman
+lang: en
+
+# Google Analytics (optional - uncomment to enable)
+# google_analytics: UA-XXXXXXXX-X
+
+# GitHub metadata
+github:
+  is_project_page: true
+  repository_url: https://github.com/waynewgl1987/RollOrNot
+
+# Build settings
+markdown: kramdown
+kramdown:
+  auto_ids: true
+  input: GFM
+
+# Default frontmatter for all pages
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default

@@ -1,3 +1,8 @@
+---
+title: RollOrNot — Instruction / 说明 / 說明
+permalink: /instruction/
+---
+
 # RollOrNot — Instruction / 说明 / 說明
 
 ---
