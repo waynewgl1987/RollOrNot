@@ -105,24 +105,9 @@ RollOrNot puts the power of AI in your hands. Simply snap a photo of any homewor
 
 > "The AR scanning is amazing — I can scan real objects and the AI tells me what it is and generates related quiz questions. My kids love it!"
 
----
-
-### Download
-
-RollOrNot is available on the App Store for iPhone and iPad.
-
-- **Price**: Free
-- **Minimum iOS**: 17.0
-- **Supported Devices**: iPhone, iPad
-
----
-
 ### Contact
 
-- **Support**: [rollornot.app@icloud.com](mailto:rollornot.app@icloud.com)
-- **Privacy Policy**: [Privacy](/privacy)
-
----
+- **Support**: [waynewgl1987@gmail.com](mailto:waynewgl1987@gmail.com)
 
 *Last updated: June 2026*
 
@@ -227,24 +212,9 @@ RollOrNot is available on the App Store for iPhone and iPad.
 
 >「AR 扫描太棒了——我可以扫描实物，AI 告诉我是什麼并生成相关测验题。我的孩子超喜欢！」
 
----
-
-### 下载
-
-RollOrNot（卷不卷）已在 App Store 上架，支持 iPhone 和 iPad。
-
-- **价格**：免费
-- **最低系统**：iOS 17.0
-- **支持设备**：iPhone、iPad
-
----
-
 ### 联系我们
 
-- **技术支持**：[rollornot.app@icloud.com](mailto:rollornot.app@icloud.com)
-- **隐私政策**：[隐私政策](/privacy)
-
----
+- **技术支持**：[waynewgl1987@gmail.com](mailto:waynewgl1987@gmail.com)
 
 *最后更新：2026 年 6 月*
 
@@ -349,23 +319,8 @@ RollOrNot（卷不卷）已在 App Store 上架，支持 iPhone 和 iPad。
 
 >「AR 掃描太棒了——我可以掃描實物，AI 告訴我是什麼並生成相關測驗題。我的孩子超喜歡！」
 
----
-
-### 下載
-
-RollOrNot（卷不卷）已在 App Store 上架，支援 iPhone 和 iPad。
-
-- **價格**：免費
-- **最低系統**：iOS 17.0
-- **支援裝置**：iPhone、iPad
-
----
-
 ### 聯絡我們
 
-- **技術支援**：[rollornot.app@icloud.com](mailto:rollornot.app@icloud.com)
-- **隱私權政策**：[隱私權政策](/privacy)
-
----
+- **技術支援**：[waynewgl1987@gmail.com](mailto:waynewgl1987@gmail.com)
 
 *最後更新：2026 年 6 月*
