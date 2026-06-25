@@ -27,7 +27,7 @@ RollOrNot is an iOS app that helps you study smarter. Simply snap a photo of any
 | | |
 |---|---|
 | 📸 **Smart Question Capture** | Photograph homework, exams, or textbook questions |
-| 🤖 **AI-Powered Analysis** | Step-by-step solutions with 11+ AI providers |
+| 🤖 **AI-Powered Analysis** | Step-by-step solutions with custom AI provider support |
 | 📚 **Question Bank** | Save, organize, and search your study library |
 | 🎮 **Interactive Games** | AI-generated HTML5 learning games |
 | 🔍 **AR Object Scanning** | LiDAR 3D scanning for science exploration |
