@@ -96,8 +96,8 @@ RollOrNot puts the power of AI in your hands. Simply snap a photo of any homewor
 | Feature | Benefit |
 |---------|---------|
 | **Privacy First** | No data collection, no tracking, no account required |
-| **Your Own AI Key** | Use your preferred AI provider with your own API key |
-| **Local Models Supported** | Connect to Ollama, LM Studio, or llama.cpp for offline use |
+| **Local AI Only** | All AI features run on local models — no data leaves your device |
+| **Offline Ready** | Connect to Ollama, LM Studio, or llama.cpp for fully offline use |
 | **Free & No Ads** | Completely free with no in-app purchases or subscriptions |
 | **Multi-Subject** | 13+ subjects from Math to Programming |
 | **AR Integration** | Unique LiDAR 3D scanning for science exploration |
@@ -154,7 +154,7 @@ RollOrNot puts the power of AI in your hands. Simply snap a photo of any homewor
 - 自动生成同类练习题巩固学习
 - AI 深度解析，涵盖核心知识点和易错点分析
 - 变式题生成——同一知识点不同角度考察
-- 支持多种 AI 服务商，包括本地模型（Ollama、LM Studio、llama.cpp）
+- 支持本地 AI 大模型（Ollama、LM Studio、llama.cpp）
 - 可自由配置 AI 温度和超时参数
 
 #### 📚 题库与知识管理
@@ -203,8 +203,8 @@ RollOrNot puts the power of AI in your hands. Simply snap a photo of any homewor
 | 特性 | 优势 |
 |------|------|
 | **隐私优先** | 不收集数据、无追踪、无需注册账号 |
-| **自带 AI 密钥** | 使用您偏好的 AI 提供商和自有 API 密钥 |
-| **支持本地模型** | 可连接 Ollama、LM Studio 或 llama.cpp 离线使用 |
+| **仅本地 AI** | 所有 AI 功能均运行在本地大模型上——数据不会离开设备 |
+| **完全离线** | 连接 Ollama、LM Studio 或 llama.cpp 实现完全离线使用 |
 | **免费无广告** | 完全免费，无内购、无订阅 |
 | **多学科覆盖** | 从数学到编程，13+ 学科 |
 | **AR 融合** | 独特的 LiDAR 3D 扫描，助力科学探索 |
@@ -261,7 +261,7 @@ RollOrNot puts the power of AI in your hands. Simply snap a photo of any homewor
 - 自動生成同類練習題鞏固學習
 - AI 深度解析，涵蓋核心知識點和易錯點分析
 - 變式題生成——同一知識點不同角度考察
-- 支援多種 AI 服務商，包括本地模型（Ollama、LM Studio、llama.cpp）
+- 支援本地 AI 大型模型（Ollama、LM Studio、llama.cpp）
 - 可自由配置 AI 溫度和逾時參數
 
 #### 📚 題庫與知識管理
@@ -310,8 +310,8 @@ RollOrNot puts the power of AI in your hands. Simply snap a photo of any homewor
 | 特性 | 優勢 |
 |------|------|
 | **隱私優先** | 不收集資料、無追蹤、無需註冊帳號 |
-| **自帶 AI 金鑰** | 使用您偏好的 AI 提供商和自有 API 金鑰 |
-| **支援本地模型** | 可連接 Ollama、LM Studio 或 llama.cpp 離線使用 |
+| **僅本地 AI** | 所有 AI 功能均執行在本地大型模型上——資料不會離開裝置 |
+| **完全離線** | 連接 Ollama、LM Studio 或 llama.cpp 實現完全離線使用 |
 | **免費無廣告** | 完全免費，無內購、無訂閱 |
 | **多學科覆蓋** | 從數學到程式設計，13+ 學科 |
 | **AR 融合** | 獨特的 LiDAR 3D 掃描，助力科學探索 |
