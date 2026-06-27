@@ -47,7 +47,7 @@ RollOrNot puts the power of AI in your hands. Simply snap a photo of any homewor
 - Generate similar practice questions for reinforcement
 - AI deep analysis with core knowledge points and common mistake breakdown
 - Variant question generation — test the same topic from different angles
-- Supports 11+ AI providers: DeepSeek, Google Gemini, Claude, Qwen, Doubao, ZhipuAI, GitHub Copilot, Ollama, LM Studio, llama.cpp
+- Supports multiple AI providers, including local models (Ollama, LM Studio, llama.cpp)
 - Fully configurable AI temperature and timeout settings
 
 #### 📚 Question Bank & Knowledge Management
@@ -154,7 +154,7 @@ RollOrNot puts the power of AI in your hands. Simply snap a photo of any homewor
 - 自动生成同类练习题巩固学习
 - AI 深度解析，涵盖核心知识点和易错点分析
 - 变式题生成——同一知识点不同角度考察
-- 支持 11+ 种 AI 服务商：DeepSeek、Google Gemini、Claude、通义千问、豆包、智谱清言、GitHub Copilot、Ollama、LM Studio、llama.cpp
+- 支持多种 AI 服务商，包括本地模型（Ollama、LM Studio、llama.cpp）
 - 可自由配置 AI 温度和超时参数
 
 #### 📚 题库与知识管理
@@ -261,7 +261,7 @@ RollOrNot puts the power of AI in your hands. Simply snap a photo of any homewor
 - 自動生成同類練習題鞏固學習
 - AI 深度解析，涵蓋核心知識點和易錯點分析
 - 變式題生成——同一知識點不同角度考察
-- 支援 11+ 種 AI 服務商：DeepSeek、Google Gemini、Claude、通義千問、豆包、智譜清言、GitHub Copilot、Ollama、LM Studio、llama.cpp
+- 支援多種 AI 服務商，包括本地模型（Ollama、LM Studio、llama.cpp）
 - 可自由配置 AI 溫度和逾時參數
 
 #### 📚 題庫與知識管理
