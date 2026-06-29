@@ -47,8 +47,7 @@ RollOrNot puts the power of AI in your hands. Simply snap a photo of any homewor
 - Generate similar practice questions for reinforcement
 - AI deep analysis with core knowledge points and common mistake breakdown
 - Variant question generation — test the same topic from different angles
-- Supports local AI models (Ollama, LM Studio, llama.cpp) for fully offline use
-- Custom AI provider support — configure your own model name and API key (e.g., OpenAI, Claude, DeepSeek)
+- Supports 11+ AI providers: DeepSeek, Google Gemini, Claude, Qwen, Doubao, ZhipuAI, GitHub Copilot, Ollama, LM Studio, llama.cpp
 - Fully configurable AI temperature and timeout settings
 
 #### 📚 Question Bank & Knowledge Management
@@ -97,8 +96,8 @@ RollOrNot puts the power of AI in your hands. Simply snap a photo of any homewor
 | Feature | Benefit |
 |---------|---------|
 | **Privacy First** | No data collection, no tracking, no account required |
-| **Flexible AI** | Choose local models (data stays on device) or custom cloud providers with your own API key |
-| **Offline Ready** | Connect to Ollama, LM Studio, or llama.cpp for fully offline use |
+| **Your Own AI Key** | Use your preferred AI provider with your own API key |
+| **Local Models Supported** | Connect to Ollama, LM Studio, or llama.cpp for offline use |
 | **Free & No Ads** | Completely free with no in-app purchases or subscriptions |
 | **Multi-Subject** | 13+ subjects from Math to Programming |
 | **AR Integration** | Unique LiDAR 3D scanning for science exploration |
@@ -155,8 +154,7 @@ RollOrNot puts the power of AI in your hands. Simply snap a photo of any homewor
 - 自动生成同类练习题巩固学习
 - AI 深度解析，涵盖核心知识点和易错点分析
 - 变式题生成——同一知识点不同角度考察
-- 支持本地 AI 大模型（Ollama、LM Studio、llama.cpp），可完全离线使用
-- 支持自定义 AI 服务商——自行配置模型名称和 API Key（如 OpenAI、Claude、DeepSeek 等）
+- 支持 11+ 种 AI 服务商：DeepSeek、Google Gemini、Claude、通义千问、豆包、智谱清言、GitHub Copilot、Ollama、LM Studio、llama.cpp
 - 可自由配置 AI 温度和超时参数
 
 #### 📚 题库与知识管理
@@ -205,8 +203,8 @@ RollOrNot puts the power of AI in your hands. Simply snap a photo of any homewor
 | 特性 | 优势 |
 |------|------|
 | **隐私优先** | 不收集数据、无追踪、无需注册账号 |
-| **灵活 AI 选择** | 可选择本地大模型（数据留在设备）或自定义云端服务商（需配置 API Key） |
-| **完全离线** | 连接 Ollama、LM Studio 或 llama.cpp 实现完全离线使用 |
+| **自带 AI 密钥** | 使用您偏好的 AI 提供商和自有 API 密钥 |
+| **支持本地模型** | 可连接 Ollama、LM Studio 或 llama.cpp 离线使用 |
 | **免费无广告** | 完全免费，无内购、无订阅 |
 | **多学科覆盖** | 从数学到编程，13+ 学科 |
 | **AR 融合** | 独特的 LiDAR 3D 扫描，助力科学探索 |
@@ -263,8 +261,7 @@ RollOrNot puts the power of AI in your hands. Simply snap a photo of any homewor
 - 自動生成同類練習題鞏固學習
 - AI 深度解析，涵蓋核心知識點和易錯點分析
 - 變式題生成——同一知識點不同角度考察
-- 支援本地 AI 大型模型（Ollama、LM Studio、llama.cpp），可完全離線使用
-- 支援自訂 AI 服務商——自行設定模型名稱和 API Key（如 OpenAI、Claude、DeepSeek 等）
+- 支援 11+ 種 AI 服務商：DeepSeek、Google Gemini、Claude、通義千問、豆包、智譜清言、GitHub Copilot、Ollama、LM Studio、llama.cpp
 - 可自由配置 AI 溫度和逾時參數
 
 #### 📚 題庫與知識管理
@@ -313,8 +310,8 @@ RollOrNot puts the power of AI in your hands. Simply snap a photo of any homewor
 | 特性 | 優勢 |
 |------|------|
 | **隱私優先** | 不收集資料、無追蹤、無需註冊帳號 |
-| **彈性 AI 選擇** | 可選擇本地大型模型（資料留在裝置）或自訂雲端服務商（需設定 API Key） |
-| **完全離線** | 連接 Ollama、LM Studio 或 llama.cpp 實現完全離線使用 |
+| **自帶 AI 金鑰** | 使用您偏好的 AI 提供商和自有 API 金鑰 |
+| **支援本地模型** | 可連接 Ollama、LM Studio 或 llama.cpp 離線使用 |
 | **免費無廣告** | 完全免費，無內購、無訂閱 |
 | **多學科覆蓋** | 從數學到程式設計，13+ 學科 |
 | **AR 融合** | 獨特的 LiDAR 3D 掃描，助力科學探索 |
